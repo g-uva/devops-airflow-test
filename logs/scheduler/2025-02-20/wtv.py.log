@@ -1818,3 +1818,38 @@
 [2025-02-20T07:36:41.583+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:36:41.582+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-02-20T07:36:41.596+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:36:41.596+0000] {dag.py:4180} INFO - Setting next_dagrun for first_dag_example_v0 to 2025-02-20 00:00:00+00:00, run_after=2025-02-21 00:00:00+00:00
 [2025-02-20T07:36:41.604+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/wtv.py took 0.054 seconds
+[2025-02-20T07:37:12.018+0000] {processor.py:186} INFO - Started process (PID=5017) to work on /opt/airflow/dags/wtv.py
+[2025-02-20T07:37:12.022+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/wtv.py for tasks to queue
+[2025-02-20T07:37:12.025+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:37:12.023+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/wtv.py
+[2025-02-20T07:37:12.051+0000] {processor.py:925} INFO - DAG(s) 'first_dag_example_v0' retrieved from /opt/airflow/dags/wtv.py
+[2025-02-20T07:37:12.082+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:37:12.081+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T07:37:12.113+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:37:12.113+0000] {dag.py:4180} INFO - Setting next_dagrun for first_dag_example_v0 to 2025-02-20 00:00:00+00:00, run_after=2025-02-21 00:00:00+00:00
+[2025-02-20T07:37:12.130+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/wtv.py took 0.115 seconds
+[2025-02-20T07:37:42.757+0000] {processor.py:186} INFO - Started process (PID=5027) to work on /opt/airflow/dags/wtv.py
+[2025-02-20T07:37:42.758+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/wtv.py for tasks to queue
+[2025-02-20T07:37:42.759+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:37:42.758+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/wtv.py
+[2025-02-20T07:37:42.768+0000] {processor.py:925} INFO - DAG(s) 'first_dag_example_v0' retrieved from /opt/airflow/dags/wtv.py
+[2025-02-20T07:37:42.789+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:37:42.789+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T07:37:42.805+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:37:42.805+0000] {dag.py:4180} INFO - Setting next_dagrun for first_dag_example_v0 to 2025-02-20 00:00:00+00:00, run_after=2025-02-21 00:00:00+00:00
+[2025-02-20T07:37:42.814+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/wtv.py took 0.068 seconds
+[2025-02-20T07:38:13.369+0000] {processor.py:186} INFO - Started process (PID=5037) to work on /opt/airflow/dags/wtv.py
+[2025-02-20T07:38:13.372+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/wtv.py for tasks to queue
+[2025-02-20T07:38:13.375+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:38:13.374+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/wtv.py
+[2025-02-20T07:38:13.397+0000] {processor.py:925} INFO - DAG(s) 'first_dag_example_v0' retrieved from /opt/airflow/dags/wtv.py
+[2025-02-20T07:38:13.448+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:38:13.448+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T07:38:13.494+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:38:13.494+0000] {dag.py:4180} INFO - Setting next_dagrun for first_dag_example_v0 to 2025-02-20 00:00:00+00:00, run_after=2025-02-21 00:00:00+00:00
+[2025-02-20T07:38:13.522+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/wtv.py took 0.166 seconds
+[2025-02-20T07:38:44.314+0000] {processor.py:186} INFO - Started process (PID=5047) to work on /opt/airflow/dags/wtv.py
+[2025-02-20T07:38:44.317+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/wtv.py for tasks to queue
+[2025-02-20T07:38:44.317+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:38:44.317+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/wtv.py
+[2025-02-20T07:38:44.324+0000] {processor.py:925} INFO - DAG(s) 'first_dag_example_v0' retrieved from /opt/airflow/dags/wtv.py
+[2025-02-20T07:38:44.340+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:38:44.340+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T07:38:44.354+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:38:44.354+0000] {dag.py:4180} INFO - Setting next_dagrun for first_dag_example_v0 to 2025-02-20 00:00:00+00:00, run_after=2025-02-21 00:00:00+00:00
+[2025-02-20T07:38:44.362+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/wtv.py took 0.064 seconds
+[2025-02-20T07:39:15.040+0000] {processor.py:186} INFO - Started process (PID=5057) to work on /opt/airflow/dags/wtv.py
+[2025-02-20T07:39:15.042+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/wtv.py for tasks to queue
+[2025-02-20T07:39:15.044+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:39:15.043+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/wtv.py
+[2025-02-20T07:39:15.052+0000] {processor.py:925} INFO - DAG(s) 'first_dag_example_v0' retrieved from /opt/airflow/dags/wtv.py
+[2025-02-20T07:39:15.087+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:39:15.087+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T07:39:15.109+0000] {logging_mixin.py:190} INFO - [2025-02-20T07:39:15.109+0000] {dag.py:4180} INFO - Setting next_dagrun for first_dag_example_v0 to 2025-02-20 00:00:00+00:00, run_after=2025-02-21 00:00:00+00:00
+[2025-02-20T07:39:15.121+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/wtv.py took 0.093 seconds
